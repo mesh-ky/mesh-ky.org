@@ -1,15 +1,124 @@
 :root {
-  /* neon green */
-  --md-primary-fg-color:        #67ea94;
+  /* COLORS */
+  --md-primary-fg-color:        #67ea94; /* Neon Green */
   --md-primary-fg-color--light: #4fd67e;
   --md-primary-fg-color--dark:  #67ea94;
   --md-accent-fg-color:         #67ea94;
   
-  /* dark background */
-  --md-default-bg-color:        #121212;
+  --md-default-bg-color:        #121212; /* Deep Black Background */
   --md-code-bg-color:           #1e1e1e;
+  
+  /* Custom Variables */
+  --bg-card: #1e1e1e;
+  --text-muted: #a0a0a0;
+  --text-pop: #ffffff; /* New variable for "Pop" text */
 }
 
-/* Link styling */
-a { color: #67ea94; }
-a:hover { color: #4fd67e; }
+/* Hide default headline */
+.md-content__inner > h1 { display: none; }
+
+/* 1. HERO SECTION */
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+.hero h1 {
+  font-size: 3.5rem;
+  line-height: 1.1;
+  font-weight: 800;
+  margin-bottom: 20px;
+  color: var(--md-text-color);
+}
+.hero p {
+  font-size: 1.25rem;
+  color: var(--text-muted);
+  max-width: 700px;
+  margin: 0 auto 40px auto;
+  line-height: 1.6;
+}
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+/* 2. GRID LAYOUT */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+/* 3. CARD DESIGN */
+.card {
+  background-color: var(--bg-card);
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 30px;
+  transition: transform 0.2s, border-color 0.2s;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.card:hover {
+  transform: translateY(-5px);
+  border-color: var(--md-primary-fg-color);
+}
+.card h3 {
+  margin-top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: var(--text-pop); /* Make headers white too for better pop */
+}
+.card p {
+  flex-grow: 1;
+  color: var(--text-muted);
+  margin-bottom: 20px;
+}
+.card .tag {
+  background-color: #333;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: inline-block;
+  margin-bottom: 15px;
+  width: fit-content;
+}
+
+/* --- THE FIX: BRIGHTER PRICE --- */
+.card .price {
+  display: block;
+  color: #ffffff; /* Pure White for maximum pop */
+  font-weight: 800; /* Extra bold */
+  font-size: 1.2rem; /* Slightly larger */
+  margin-bottom: 10px;
+  letter-spacing: 0.5px;
+}
+
+.card a {
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: auto;
+}
+
+/* MkDocs Layout Overrides */
+.md-grid { max-width: 1200px; }
+
+/* MOBILE TWEAKS */
+@media (max-width: 768px) {
+  .hero { padding: 40px 10px; }
+  .hero h1 { font-size: 2.2rem; }
+  .hero p { font-size: 1rem; padding: 0 10px; }
+  .hero-buttons { flex-direction: column; padding: 0 20px; }
+  .hero-buttons .md-button { width: 100%; text-align: center; margin-right: 0 !important;}
+  .grid { gap: 20px; grid-template-columns: 1fr; }
+  .card { padding: 20px; }
+}
