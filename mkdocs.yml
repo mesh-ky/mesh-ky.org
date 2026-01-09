@@ -1,4 +1,4 @@
-site_name: Kentucky Mesh
+site_name: mesh-ky.org
 site_url: https://mesh-ky.org
 site_description: Join the Kentucky Mesh. A community-run, off-grid communication network using LoRa technology.
 repo_url: https://github.com/mesh-ky/mesh-ky.org
@@ -14,10 +14,6 @@ theme:
   icon:
     logo: material/access-point-network
     repo: fontawesome/brands/github
-  features:
-    - navigation.tabs
-    - navigation.top
-    - toc.integrate
 
 # custom CSS
 extra_css:
