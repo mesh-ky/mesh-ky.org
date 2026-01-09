@@ -1,0 +1,15 @@
+:root {
+  /* neon green */
+  --md-primary-fg-color:        #67ea94;
+  --md-primary-fg-color--light: #4fd67e;
+  --md-primary-fg-color--dark:  #67ea94;
+  --md-accent-fg-color:         #67ea94;
+  
+  /* dark background */
+  --md-default-bg-color:        #121212;
+  --md-code-bg-color:           #1e1e1e;
+}
+
+/* Link styling */
+a { color: #67ea94; }
+a:hover { color: #4fd67e; }
