@@ -1,0 +1,31 @@
+site_name: Kentucky Meshtastic Network
+site_url: https://mesh-ky.org
+site_description: Join the Kentucky Mesh. A community-run, off-grid communication network using LoRa technology.
+repo_url: https://github.com/mesh-ky/mesh-ky.org
+repo_name: GitHub
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette: 
+    scheme: slate   # Forces Dark Mode
+    primary: black
+    accent: green
+  icon:
+    logo: material/access-point-network
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+
+# custom CSS
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
