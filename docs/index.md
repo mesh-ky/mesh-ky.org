@@ -25,7 +25,7 @@ Connect with local groups across the region.
         <li><a href="https://discord.gg/227bDxBQE7" target="_blank">KY Alternative Communications</a> (Discord)</li>
         <li><a href="https://meshcorelexington.com/" target="_blank">MeshCore Lexington</a></li>
         <li><a href="https://discord.gg/CRaqMB4JyE" target="_blank">Kentuckiana Mesh (Louisville KY & So. IN)</a> (Discord)</li>
-        <li><a href="https://www.kentuckianamesh.org/" target="_blank">Kentuckiana Mesh</a> (Wiki and docs)</li>
+        <li><a href="https://www.kentuckianamesh.org/" target="_blank">Kentuckiana Mesh</a> (Wiki for Louisville and Southern Indiana)</li>
         <li><a href="https://simnetwork.org/" target="_blank">SIMNet - Southern Indiana Mesh Network</a></li>
         <li><a href="https://www.cincymesh.org/" target="_blank">Cincy Mesh</a> (Cincinnati)</li>
         <li><a href="https://www.facebook.com/groups/1226645572598496" target="_blank">MESHCORE of Bowling Green</a> (Facebook)</li>
