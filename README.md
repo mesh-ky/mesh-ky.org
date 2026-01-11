@@ -1,6 +1,6 @@
 # mesh-ky.org
 Public site for Kentucky LoraWAN related content.  
- 
+
 The intent of this site is a simple info and awareness page to unify and highlight related mesh efforts across the commonwealth.  
 
 
