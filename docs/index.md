@@ -83,9 +83,14 @@ Connect with local groups across the region.
     <a href="https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md">Visit Site →</a>
   </div>
   <div class="card">
-    <h3>Reddit Community</h3>
+    <h3>Meshtastic on Reddit</h3>
     <p>See what others are building and ask technical questions.</p>
     <a href="https://www.reddit.com/r/meshtastic/">Visit Site →</a>
+  </div>
+  <div class="card">
+    <h3>Meshcore on Reddit</h3>
+    <p>See what others are building and ask technical questions.</p>
+    <a href="https://www.reddit.com/r/meshcore/">Visit Site →</a>
   </div>
 </div>
 
