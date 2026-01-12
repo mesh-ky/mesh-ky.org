@@ -26,11 +26,11 @@ Connect with local groups across the region.
         <li><a href="https://meshcorelexington.com/" target="_blank">MeshCore Lexington</a></li>
         <li><a href="https://discord.gg/CRaqMB4JyE" target="_blank">Kentuckiana Mesh (Louisville KY & So. IN)</a> (Discord)</li>
         <li><a href="https://www.kentuckianamesh.org/" target="_blank">Kentuckiana Mesh</a> (Wiki for Louisville and Southern Indiana)</li>
-        <li><a href="https://simnetwork.org/" target="_blank">SIMNet - Southern Indiana Mesh Network</a></li>
-        <li><a href="https://www.cincymesh.org/" target="_blank">Cincy Mesh</a> (Cincinnati)</li>
         <li><a href="https://www.facebook.com/groups/1226645572598496" target="_blank">MESHCORE of Bowling Green</a> (Facebook)</li>
         <li><a href="https://www.facebook.com/groups/1629230191068091" target="_blank">Paducah Kentucky Meshtastic Mesh Project</a> (Facebook)</li>
         <li><a href="https://www.facebook.com/groups/257831737385089" target="_blank">Ohio River Valley Meshtastic Group</a> (Facebook)</li>
+        <li><a href="https://simnetwork.org/" target="_blank">SIMNet - Southern Indiana Mesh Network</a></li>
+        <li><a href="https://www.cincymesh.org/" target="_blank">Cincy Mesh</a> (Cincinnati)</li>
     </ul>
   </div>
 </div>
@@ -73,14 +73,14 @@ Connect with local groups across the region.
 
 <div class="grid">
   <div class="card">
-    <h3>Official Docs</h3>
-    <p>The source of truth for flashing firmware and configuration.</p>
+    <h3>Meshtastic Docs</h3>
+    <p>Primary meshtastic project site.</p>
     <a href="https://meshtastic.org/">Visit Site →</a>
   </div>
   <div class="card">
-    <h3>Web Flasher</h3>
-    <p>Install the software onto your device directly from Chrome.</p>
-    <a href="https://flasher.meshtastic.org/">Visit Site →</a>
+    <h3>Meshcore FAQ</h3>
+    <p>Frequently asked questions for meshcore</p>
+    <a href="https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md">Visit Site →</a>
   </div>
   <div class="card">
     <h3>Reddit Community</h3>
