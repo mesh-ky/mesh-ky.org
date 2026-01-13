@@ -2,12 +2,15 @@
 This section is for statewide notes or community specifics people feel like sharing (channels/mqtts/favorite paths).
 
 ### Channel Details
-#### Kentucky
-name: Kentucky  
-PSK:  
-Description: First private channel I have seen shared. I believe the intent is a statewide channel.
 
-### Other State and Community Sites
+| Item | Value                       | 
+|-----:|:----------------------------| 
+| Name | Kentucky                    | 
+| PSK  | `kS+aQ3cG3OtKsNy/YDb51g==`  | 
+
+
+
+### Other Community Sites 
 These are some example projects we should be able to learn from.  
 - [Chicagoland Mesh](https://chicagolandmesh.org)  
 - [Meshville (Nashville)](https://meshville.org/)  
@@ -15,6 +18,7 @@ These are some example projects we should be able to learn from.
 - [Austin Mesh](https://www.austinmesh.org)  
 - [Puget Mesh](https://pugetmesh.org/)  
 
-### Contributing
+
+## Contributing
 You can contribute adjustments to this site through the public Github repo: [mesh-ky/mesh-ky.org](https://github.com/mesh-ky/mesh-ky.org).  
 Submit an issue, expain the change or update and it will get worked in.  
