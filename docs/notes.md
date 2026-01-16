@@ -7,15 +7,26 @@ This section is for statewide notes or community specifics people feel like shar
 |------:|:-------------------------------------------------------| 
 | Name  | Kentucky                                               | 
 | PSK   | `kS+aQ3cG3OtKsNy/YDb51g==`                             | 
-| Notes | First saw on the KY Alternative Communication discord  |
+| Notes | First saw on the KY Alternative Communication discord. |
    
 #### loupublic (Louisville Public)
 | Item | Value                                                        | 
 |------:|:------------------------------------------------------------| 
 | Name  | loupublic                                                   | 
 | PSK   |                                                             | 
-| Notes | No PSK, just enter the channel name. Open and rarely used.  |
+| Notes | No PSK, just enter the channel name. Open and rarely used. Got this from KYAC discord too. |
 
+
+### MQTT Details
+** The MQTT module settings on the node interact with your channel settings (Uplink/Downlink/Position). Will try and find or make a table explaining some of the combinations and behaviors/usages. ** 
+#### Meshtastic default
+| Item | Value                                                   | 
+|-----------:|:-------------------------------------------------------| 
+| Address    | mqtt.meshtastic.org                                    | 
+| Username   | meshdev                                                | 
+| Password   | `large4cats`                                           |
+| Root topic | `msh/US/KY`
+| Notes      | The default mqtt settings after a flash. Good for testing and learning ins and outs of settings. To view in MQTT-Explorer, make sure you go to advanced and add `msh/US/KY/#` when adding the connection  |
 
 ### Other Community Sites 
 These are some example projects we should be able to learn from.  
@@ -24,6 +35,8 @@ These are some example projects we should be able to learn from.
 - [NC Mesh](https://ncmesh.net/)  
 - [Austin Mesh](https://www.austinmesh.org)  
 - [Puget Mesh](https://pugetmesh.org/)  
+- [Philly Mesh](https://phillymesh.net/)  
+- [Meshtastic Bay Area Group](https://bayme.sh/)  
 
 
 ## Contributing
