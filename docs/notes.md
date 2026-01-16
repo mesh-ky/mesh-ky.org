@@ -2,12 +2,19 @@
 This section is for statewide notes or community specifics people feel like sharing (channels/mqtts/favorite paths).
 
 ### Channel Details
-
-| Item | Value                       | 
-|-----:|:----------------------------| 
-| Name | Kentucky                    | 
-| PSK  | `kS+aQ3cG3OtKsNy/YDb51g==`  | 
-
+#### Kentucky
+| Item | Value                                                   | 
+|------:|:-------------------------------------------------------| 
+| Name  | Kentucky                                               | 
+| PSK   | `kS+aQ3cG3OtKsNy/YDb51g==`                             | 
+| Notes | First saw on the KY Alternative Communication discord  |
+   
+#### loupublic (Louisville Public)
+| Item | Value                                                        | 
+|------:|:------------------------------------------------------------| 
+| Name  | loupublic                                                   | 
+| PSK   |                                                             | 
+| Notes | No PSK, just enter the channel name. Open and rarely used.  |
 
 
 ### Other Community Sites 
