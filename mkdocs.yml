@@ -5,6 +5,11 @@ repo_url: https://github.com/mesh-ky/mesh-ky.org
 repo_name: GitHub
 edit_uri: edit/main/docs/
 
+nav:
+  - Home: index.md
+  - Notes: notes.md
+  - Stats: https://view.mesh-ky.org
+
 theme:
   name: material
   palette: 
