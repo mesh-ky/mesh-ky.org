@@ -2,7 +2,7 @@ site_name: mesh-ky.org
 site_url: https://mesh-ky.org
 site_description: Join the Kentucky Mesh. A community-run, off-grid communication network using LoRa technology.
 repo_url: https://github.com/mesh-ky/mesh-ky.org
-repo_name: GitHub
+repo_name: mesh-ky.org
 edit_uri: edit/main/docs/
 
 nav:
