@@ -3,19 +3,25 @@ This section is for statewide notes or community specifics people feel like shar
 
 ### Channel Details
 #### Kentucky
-| Item | Value                                                   | 
+| Item  | Value                                                  | 
 |------:|:-------------------------------------------------------| 
 | Name  | Kentucky                                               | 
 | PSK   | `kS+aQ3cG3OtKsNy/YDb51g==`                             | 
 | Notes | First saw on the KY Alternative Communication discord. |
    
 #### loupublic (Louisville Public)
-| Item | Value                                                        | 
+| Item  | Value                                                       | 
 |------:|:------------------------------------------------------------| 
 | Name  | loupublic                                                   | 
 | PSK   |                                                             | 
 | Notes | No PSK, just enter the channel name. Open and rarely used. Got this from KYAC discord too. |
 
+#### DerbyCityRF
+| Item  | Value                                                     | 
+|------:|:----------------------------------------------------------| 
+| Name  | DerbyCityRF                                               | 
+| PSK   | `1YwtkbDkRF5VURzgBOo/MQKfvnhl1KYRGxnbzUbQ3Ko=`            | 
+| Notes | Something other than LongFast for Louisville and surronding areas to test local reach. |
 
 ### MQTT Details
 ** The MQTT module settings on the node interact with your channel settings (Uplink/Downlink/Position). Will try and find or make a table explaining some of the combinations and behaviors/usages. ** 
