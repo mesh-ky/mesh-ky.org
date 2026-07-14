@@ -30,6 +30,7 @@ Connect with local groups across the region.
         <li><a href="https://www.facebook.com/groups/257831737385089" target="_blank">Ohio River Valley Meshtastic Group</a> (Facebook)</li>
         <li><a href="https://simnetwork.org/" target="_blank">SIMNet - Southern Indiana Mesh Network</a></li>
         <li><a href="https://www.cincymesh.org/" target="_blank">Cincy Mesh</a> (Cincinnati)</li>
+        <li><a href="https://okimesh.org/" target="_blank">OKI Mesh (Southwest Ohio, Southeast Indiana, and Northern Kentucky)</li>
     </ul>
   </div>
 </div>
