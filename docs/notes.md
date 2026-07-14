@@ -44,7 +44,7 @@ These are some example projects we should be able to learn from.
 - [Puget Mesh](https://pugetmesh.org/)  
 - [Philly Mesh](https://phillymesh.net/)  
 - [Meshtastic Bay Area Group](https://bayme.sh/)  
-
+- [Dayton Mesh](https://daytonmesh.org/)  
 
 ## Contributing
 You can contribute adjustments to this site through the public Github repo: [mesh-ky/mesh-ky.org](https://github.com/mesh-ky/mesh-ky.org).  
